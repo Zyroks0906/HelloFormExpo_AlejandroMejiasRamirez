@@ -104,19 +104,7 @@ npx expo start --tunnel
 ---
 
 ##  Capturas de Pantalla
-
-### Estado inicial
-![Estado inicial de la app](ruta/a/captura1.png)
-
-### Saludo exitoso
-![Saludo con nombre ingresado](ruta/a/captura2.png)
-
-### Mensaje de error
-![Error al intentar saludar sin nombre](ruta/a/captura3.png)
-
-### Logro alcanzado
-![Mensaje especial a los 10 saludos](ruta/a/captura4.png)
-
+Estan incluidas en la raíz del proyecto, una captura del programa en IOS y un video en Android
 ---
 
 ##  Comparación: Android Clásico / Jetpack Compose vs Expo
